@@ -1,0 +1,7 @@
+# Compiled files
+*.o
+*.mod
+*.smod
+
+# Build directories
+build/
